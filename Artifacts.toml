@@ -1,0 +1,20 @@
+[[HelloCxx]]
+arch = "x86_64"
+git-tree-sha1 = "e93293f02182c0e585f94ca5fd876213d4731018"
+julia_version = "1.10.0"
+libc = "glibc"
+os = "linux"
+
+    [[HelloCxx.download]]
+    sha256 = "8e4fced5859cdf01f3897833c07da240e2dec92a71c8ce45b74d9820b9fc87c1"
+    url = "https://github.com/j-fu/HelloCxx_jll.jl/releases/download/HelloCxx-v0.0.1+0/HelloCxx.v0.0.1.x86_64-linux-gnu-julia_version+1.10.0.tar.gz"
+[[HelloCxx]]
+arch = "x86_64"
+git-tree-sha1 = "9db4e9529243e52099863e75c7196f150c6d89c8"
+julia_version = "1.9.0"
+libc = "glibc"
+os = "linux"
+
+    [[HelloCxx.download]]
+    sha256 = "4b39e53a8b85eca884051e399ed35e39bb8efb48c3f34720b8ed2495cb63e3cd"
+    url = "https://github.com/j-fu/HelloCxx_jll.jl/releases/download/HelloCxx-v0.0.1+0/HelloCxx.v0.0.1.x86_64-linux-gnu-julia_version+1.9.0.tar.gz"
